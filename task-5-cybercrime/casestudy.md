@@ -21,6 +21,7 @@ According to digital literacy standards, this fraud typically follows a structur
 ## 4. Official Reporting Channels
 As a Student Digital Ambassador, I urge anyone targeted by such scams to immediately use the official Indian government resources:
 * **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
+*  **National Helpline:** **1930** (Available 24x7)
 
 
 ---
